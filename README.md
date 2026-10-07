@@ -33,16 +33,15 @@ This program calculates the exact number of rice grains per box and dynamically 
 If you want to run this code on your local machine, make sure you have a C compiler installed (such as GCC).
 
 ```
-# Clone the repository
-git clone https://github.com/your-username/chessboard-rice-c.git
+#Step1: Clone the repository
 
-# Navigate into the directory
+#Step2: Navigate into the directory
 cd chessboard-rice-c
 
-# Compile the C program
+#Step3: Compile the C program
 gcc main.c -o chessboard
 
-# Run the executable
+#Step4: Run the executable
 ./chessboard
 
 ```
